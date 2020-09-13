@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\bin\Debug\miCalculadora.exe.config
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\bin\Debug\miCalculadora.exe
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\bin\Debug\miCalculadora.pdb
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\bin\Debug\Entidades.dll
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\bin\Debug\Entidades.pdb
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.FormCalculadora.resources
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.Properties.Resources.resources
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.csproj.CopyComplete
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.exe
+C:\Users\usuario\source\repos\Calculadora\miCalculadora\obj\Debug\miCalculadora.pdb
