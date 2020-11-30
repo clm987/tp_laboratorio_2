@@ -1,0 +1,14 @@
+----------DATOS DE LA TIENDA-------------
+3
+Tienda Mia
+Av. 4, 2222
+1153393660
+
+----------DETALLE DE LA VENTA-------------
+Nombre de producto: Cocina El Fuego
+Precio por unidad: 10000
+
+2
+
+------------------------------------------
+MONTO TOTAL: 20000

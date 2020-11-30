@@ -1,0 +1,812 @@
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 4
+Nombre de tienda La tienda Dot
+Direccion: Los frailes, 1952
+Telefono: 1153393784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 4
+Nombre de tienda La tienda Dot
+Direccion: Los frailes, 1952
+Telefono: 1153393784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 4
+Nombre de tienda La tienda Dot
+Direccion: Los frailes, 1952
+Telefono: 1153393784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 4
+Nombre de tienda La tienda Dot
+Direccion: Los frailes, 1952
+Telefono: 1153393784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 4
+Nombre de tienda La tienda Dot
+Direccion: Los frailes, 1952
+Telefono: 1153393784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 16000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 5
+Nombre de tienda TecnoTienda
+Direccion: Av. El obelisco, 195
+Telefono: 1123593784
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1800
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 1
+Nombre de tienda Garbarino Cabildo
+Direccion: Av. Cabildo 2323
+Telefono: 1153393658
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Mouse Logitech
+Precio por unidad: 600
+
+11
+
+------------------------------------------
+MONTO TOTAL: 1200
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
+----------DATOS DE LA TIENDA-------------
+Id de Tienda: 2
+Nombre de tienda Garbarino Centro
+Direccion: Av. 9 de Julio 1234
+Telefono: 1153393675
+
+----------DETALLE DE LA VENTA-------------
+Nombre de articulo: Horno Microondas
+Precio por unidad: 8000
+
+4
+
+------------------------------------------
+MONTO TOTAL: 24000
